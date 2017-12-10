@@ -269,6 +269,33 @@ void printGraph() {
 		nodes.clear();
 		N = i;
 		L = 20;
+		R.push_back(8);
+		R.push_back(16);
+		R.push_back(32);
+		R.push_back(64);
+		R.push_back(128);
+		// R.push_back(1);
+		// R.push_back(2);
+		// R.push_back(4);
+		// R.push_back(8);
+		// R.push_back(16);
+		M = 6;
+		T = 50000;
+		channel_utilization = 0;
+		channel_idle = 0;
+		total_collisions = 0;
+		createNodes();
+		simulation();
+		f1 << "Channel utilization for the i " <<i<<" "<< ((double) channel_utilization / (double) T) * 100.0 << "%\n";
+		f2 << "Channel idle fraction: " <<i<<" "<< ((double) channel_idle / (double) T) * 100.0 << "%\n";
+		f3 << "Total number of collisions: " <<i<<" "<< total_collisions << "\n";
+	}
+for (int i = 5; i <= 100; i++) {
+		R.clear();
+		nodes.clear();
+		N = i;
+		L = 20;
+	
 		R.push_back(1);
 		R.push_back(2);
 		R.push_back(4);
@@ -281,11 +308,8 @@ void printGraph() {
 		total_collisions = 0;
 		createNodes();
 		simulation();
-		f41 << "Channel utilization: " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
-	// 	f2 << "Channel idle fraction: " << ((double) channel_idle / (double) T) * 100.0 << "%\n";
-	// 	f3 << "Total number of collisions: " << total_collisions << "\n";
-	}
-
+		f41 << "Channel utilization for the i " <<i<<" "<< ((double) channel_utilization / (double) T) * 100.0 << "%\n";
+		}
 	for (int i = 5; i <= 100; i++) {
 		R.clear();
 		nodes.clear();
@@ -303,7 +327,7 @@ void printGraph() {
 		total_collisions = 0;
 		createNodes();
 		simulation();
-		f42 << "Channel utilization: " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
+		f42 << "Channel utilization: " <<i<<" "<< ((double) channel_utilization / (double) T) * 100.0 << "%\n";
 	// 	f2 << "Channel idle fraction: " << ((double) channel_idle / (double) T) * 100.0 << "%\n";
 	// 	f3 << "Total number of collisions: " << total_collisions << "\n";
 	}
@@ -324,7 +348,7 @@ void printGraph() {
 		total_collisions = 0;
 		createNodes();
 		simulation();
-		f43 << "Channel utilization: " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
+		f43 << "Channel utilization: " <<i<<" "<< ((double) channel_utilization / (double) T) * 100.0 << "%\n";
 	// 	f2 << "Channel idle fraction: " << ((double) channel_idle / (double) T) * 100.0 << "%\n";
 	// 	f3 << "Total number of collisions: " << total_collisions << "\n";
 
@@ -346,7 +370,7 @@ void printGraph() {
 		total_collisions = 0;
 		createNodes();
 		simulation();
-		f44 << "Channel utilization: " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
+		f44 << "Channel utilization: "<<i<<" " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
 	// 	f2 << "Channel idle fraction: " << ((double) channel_idle / (double) T) * 100.0 << "%\n";
 	// 	f3 << "Total number of collisions: " << total_collisions << "\n";
 	}
@@ -367,7 +391,7 @@ void printGraph() {
 		total_collisions = 0;
 		createNodes();
 		simulation();
-		f45 << "Channel utilization: " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
+		f45 << "Channel utilization: " <<i<<" "<< ((double) channel_utilization / (double) T) * 100.0 << "%\n";
 	// 	f2 << "Channel idle fraction: " << ((double) channel_idle / (double) T) * 100.0 << "%\n";
 	// 	f3 << "Total number of collisions: " << total_collisions << "\n";
 	}
@@ -388,7 +412,7 @@ void printGraph() {
 		total_collisions = 0;
 		createNodes();
 		simulation();
-		f51 << "Channel utilization: " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
+		f51 << "Channel utilization: " <<i<<" "<< ((double) channel_utilization / (double) T) * 100.0 << "%\n";
 	// 	f2 << "Channel idle fraction: " << ((double) channel_idle / (double) T) * 100.0 << "%\n";
 	// 	f3 << "Total number of collisions: " << total_collisions << "\n";
 	}
@@ -409,7 +433,7 @@ void printGraph() {
 		total_collisions = 0;
 		createNodes();
 		simulation();
-		f52 << "Channel utilization: " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
+		f52 << "Channel utilization: " <<i<<" "<< ((double) channel_utilization / (double) T) * 100.0 << "%\n";
 	// 	f2 << "Channel idle fraction: " << ((double) channel_idle / (double) T) * 100.0 << "%\n";
 	// 	f3 << "Total number of collisions: " << total_collisions << "\n";
 	}for (int i = 5; i <= 100; i++) {
@@ -429,7 +453,7 @@ void printGraph() {
 		total_collisions = 0;
 		createNodes();
 		simulation();
-		f53 << "Channel utilization: " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
+		f53 << "Channel utilization: "<<i<<" " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
 	// 	f2 << "Channel idle fraction: " << ((double) channel_idle / (double) T) * 100.0 << "%\n";
 	// 	f3 << "Total number of collisions: " << total_collisions << "\n";
 	}for (int i = 5; i <= 100; i++) {
@@ -449,7 +473,7 @@ void printGraph() {
 		total_collisions = 0;
 		createNodes();
 		simulation();
-		f54 << "Channel utilization: " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
+		f54 << "Channel utilization: " <<i<<" "<< ((double) channel_utilization / (double) T) * 100.0 << "%\n";
 	// 	f2 << "Channel idle fraction: " << ((double) channel_idle / (double) T) * 100.0 << "%\n";
 	// 	f3 << "Total number of collisions: " << total_collisions << "\n";
 	}for (int i = 5; i <= 100; i++) {
@@ -469,7 +493,7 @@ void printGraph() {
 		total_collisions = 0;
 		createNodes();
 		simulation();
-		f55 << "Channel utilization: " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
+		f55 << "Channel utilization: "<<i<<" " << ((double) channel_utilization / (double) T) * 100.0 << "%\n";
 	// 	f2 << "Channel idle fraction: " << ((double) channel_idle / (double) T) * 100.0 << "%\n";
 	// 	f3 << "Total number of collisions: " << total_collisions << "\n";
 	}

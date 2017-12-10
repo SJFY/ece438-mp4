@@ -1,96 +1,96 @@
-Channel utilization: 94.316%
-Channel utilization: 93.93%
-Channel utilization: 93.15%
-Channel utilization: 92.782%
-Channel utilization: 92.394%
-Channel utilization: 91.712%
-Channel utilization: 91.116%
-Channel utilization: 90.124%
-Channel utilization: 89.306%
-Channel utilization: 88.672%
-Channel utilization: 87.616%
-Channel utilization: 86.294%
-Channel utilization: 84.74%
-Channel utilization: 83.88%
-Channel utilization: 82.098%
-Channel utilization: 81.26%
-Channel utilization: 78.616%
-Channel utilization: 75.822%
-Channel utilization: 74.17%
-Channel utilization: 72.222%
-Channel utilization: 69.046%
-Channel utilization: 67.016%
-Channel utilization: 62.406%
-Channel utilization: 60.368%
-Channel utilization: 57.544%
-Channel utilization: 50.72%
-Channel utilization: 50.43%
-Channel utilization: 44.934%
-Channel utilization: 43.56%
-Channel utilization: 42.296%
-Channel utilization: 40.88%
-Channel utilization: 34.548%
-Channel utilization: 30.578%
-Channel utilization: 26.81%
-Channel utilization: 24.08%
-Channel utilization: 22.68%
-Channel utilization: 19.8%
-Channel utilization: 14.68%
-Channel utilization: 15.668%
-Channel utilization: 12.52%
-Channel utilization: 10.24%
-Channel utilization: 10.68%
-Channel utilization: 8.32%
-Channel utilization: 7.48%
-Channel utilization: 6.28%
-Channel utilization: 5.76%
-Channel utilization: 4.28%
-Channel utilization: 4.96%
-Channel utilization: 4.08%
-Channel utilization: 3.56%
-Channel utilization: 2.8%
-Channel utilization: 2.08%
-Channel utilization: 2.32%
-Channel utilization: 1.52%
-Channel utilization: 1.64%
-Channel utilization: 1.24%
-Channel utilization: 1.16%
-Channel utilization: 1.04%
-Channel utilization: 0.8%
-Channel utilization: 0.64%
-Channel utilization: 0.4%
-Channel utilization: 0.36%
-Channel utilization: 0.12%
-Channel utilization: 0.28%
-Channel utilization: 0.36%
-Channel utilization: 0.44%
-Channel utilization: 0.24%
-Channel utilization: 0.12%
-Channel utilization: 0.04%
-Channel utilization: 0%
-Channel utilization: 0.08%
-Channel utilization: 0.04%
-Channel utilization: 0.12%
-Channel utilization: 0.16%
-Channel utilization: 0.04%
-Channel utilization: 0.12%
-Channel utilization: 0.08%
-Channel utilization: 0.08%
-Channel utilization: 0%
-Channel utilization: 0%
-Channel utilization: 0%
-Channel utilization: 0%
-Channel utilization: 0%
-Channel utilization: 0%
-Channel utilization: 0%
-Channel utilization: 0%
-Channel utilization: 0.04%
-Channel utilization: 0%
-Channel utilization: 0.08%
-Channel utilization: 0%
-Channel utilization: 0%
-Channel utilization: 0%
-Channel utilization: 0%
-Channel utilization: 0%
-Channel utilization: 0%
-Channel utilization: 0%
+Channel utilization for the i 5 94.28%
+Channel utilization for the i 6 93.818%
+Channel utilization for the i 7 93.152%
+Channel utilization for the i 8 92.782%
+Channel utilization for the i 9 91.854%
+Channel utilization for the i 10 91.876%
+Channel utilization for the i 11 91.104%
+Channel utilization for the i 12 90.3%
+Channel utilization for the i 13 89.23%
+Channel utilization for the i 14 88.108%
+Channel utilization for the i 15 87.034%
+Channel utilization for the i 16 85.764%
+Channel utilization for the i 17 84.402%
+Channel utilization for the i 18 83.952%
+Channel utilization for the i 19 82.304%
+Channel utilization for the i 20 79.332%
+Channel utilization for the i 21 79.188%
+Channel utilization for the i 22 76.828%
+Channel utilization for the i 23 74.416%
+Channel utilization for the i 24 71.376%
+Channel utilization for the i 25 68%
+Channel utilization for the i 26 65.934%
+Channel utilization for the i 27 63.96%
+Channel utilization for the i 28 59.04%
+Channel utilization for the i 29 56.32%
+Channel utilization for the i 30 53.636%
+Channel utilization for the i 31 50.698%
+Channel utilization for the i 32 46.52%
+Channel utilization for the i 33 43.634%
+Channel utilization for the i 34 38.92%
+Channel utilization for the i 35 35.88%
+Channel utilization for the i 36 33.966%
+Channel utilization for the i 37 29.58%
+Channel utilization for the i 38 26.642%
+Channel utilization for the i 39 24.92%
+Channel utilization for the i 40 22.49%
+Channel utilization for the i 41 18.28%
+Channel utilization for the i 42 18.64%
+Channel utilization for the i 43 16.36%
+Channel utilization for the i 44 12.8%
+Channel utilization for the i 45 12.44%
+Channel utilization for the i 46 12.12%
+Channel utilization for the i 47 9.96%
+Channel utilization for the i 48 8.524%
+Channel utilization for the i 49 6.84%
+Channel utilization for the i 50 6.28%
+Channel utilization for the i 51 6.084%
+Channel utilization for the i 52 3.76%
+Channel utilization for the i 53 3.76%
+Channel utilization for the i 54 2.2%
+Channel utilization for the i 55 3%
+Channel utilization for the i 56 2.32%
+Channel utilization for the i 57 2.44%
+Channel utilization for the i 58 1.56%
+Channel utilization for the i 59 1.76%
+Channel utilization for the i 60 2.52%
+Channel utilization for the i 61 0.68%
+Channel utilization for the i 62 0.96%
+Channel utilization for the i 63 0.84%
+Channel utilization for the i 64 0.68%
+Channel utilization for the i 65 0.44%
+Channel utilization for the i 66 0.68%
+Channel utilization for the i 67 0.12%
+Channel utilization for the i 68 0.16%
+Channel utilization for the i 69 0.24%
+Channel utilization for the i 70 0.36%
+Channel utilization for the i 71 0.24%
+Channel utilization for the i 72 0.04%
+Channel utilization for the i 73 0%
+Channel utilization for the i 74 0.32%
+Channel utilization for the i 75 0%
+Channel utilization for the i 76 0%
+Channel utilization for the i 77 0%
+Channel utilization for the i 78 0%
+Channel utilization for the i 79 0.08%
+Channel utilization for the i 80 0.12%
+Channel utilization for the i 81 0.04%
+Channel utilization for the i 82 0%
+Channel utilization for the i 83 0.08%
+Channel utilization for the i 84 0%
+Channel utilization for the i 85 0%
+Channel utilization for the i 86 0%
+Channel utilization for the i 87 0%
+Channel utilization for the i 88 0%
+Channel utilization for the i 89 0%
+Channel utilization for the i 90 0%
+Channel utilization for the i 91 0%
+Channel utilization for the i 92 0%
+Channel utilization for the i 93 0%
+Channel utilization for the i 94 0%
+Channel utilization for the i 95 0%
+Channel utilization for the i 96 0%
+Channel utilization for the i 97 0%
+Channel utilization for the i 98 0%
+Channel utilization for the i 99 0%
+Channel utilization for the i 100 0%

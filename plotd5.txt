@@ -1,96 +1,96 @@
-Channel utilization: 85.164%
-Channel utilization: 86.126%
-Channel utilization: 86.532%
-Channel utilization: 87.088%
-Channel utilization: 87.374%
-Channel utilization: 87.36%
-Channel utilization: 87.188%
-Channel utilization: 87.87%
-Channel utilization: 88.494%
-Channel utilization: 88.146%
-Channel utilization: 88.488%
-Channel utilization: 88.612%
-Channel utilization: 88.132%
-Channel utilization: 88.406%
-Channel utilization: 88.442%
-Channel utilization: 88.45%
-Channel utilization: 88.414%
-Channel utilization: 88.788%
-Channel utilization: 88.72%
-Channel utilization: 88.714%
-Channel utilization: 88.73%
-Channel utilization: 88.486%
-Channel utilization: 88.788%
-Channel utilization: 88.8%
-Channel utilization: 88.898%
-Channel utilization: 88.466%
-Channel utilization: 88.818%
-Channel utilization: 88.69%
-Channel utilization: 88.728%
-Channel utilization: 89.042%
-Channel utilization: 89.104%
-Channel utilization: 89.034%
-Channel utilization: 88.92%
-Channel utilization: 88.958%
-Channel utilization: 89.158%
-Channel utilization: 88.814%
-Channel utilization: 88.604%
-Channel utilization: 89.024%
-Channel utilization: 88.39%
-Channel utilization: 88.978%
-Channel utilization: 88.772%
-Channel utilization: 88.61%
-Channel utilization: 88.736%
-Channel utilization: 88.52%
-Channel utilization: 88.746%
-Channel utilization: 88.8%
-Channel utilization: 88.592%
-Channel utilization: 88.772%
-Channel utilization: 88.478%
-Channel utilization: 88.84%
-Channel utilization: 88.652%
-Channel utilization: 88.762%
-Channel utilization: 88.492%
-Channel utilization: 88.606%
-Channel utilization: 88.27%
-Channel utilization: 88.484%
-Channel utilization: 88.52%
-Channel utilization: 88.49%
-Channel utilization: 88.372%
-Channel utilization: 88.618%
-Channel utilization: 88.422%
-Channel utilization: 88.44%
-Channel utilization: 88.288%
-Channel utilization: 88.498%
-Channel utilization: 88.08%
-Channel utilization: 88.578%
-Channel utilization: 87.92%
-Channel utilization: 88.492%
-Channel utilization: 87.776%
-Channel utilization: 88.04%
-Channel utilization: 87.92%
-Channel utilization: 87.832%
-Channel utilization: 87.978%
-Channel utilization: 87.88%
-Channel utilization: 88.016%
-Channel utilization: 88.13%
-Channel utilization: 87.854%
-Channel utilization: 87.72%
-Channel utilization: 87.448%
-Channel utilization: 87.628%
-Channel utilization: 87.88%
-Channel utilization: 87.338%
-Channel utilization: 87.28%
-Channel utilization: 87.58%
-Channel utilization: 87.51%
-Channel utilization: 87.326%
-Channel utilization: 87.292%
-Channel utilization: 87.48%
-Channel utilization: 87.16%
-Channel utilization: 87.072%
-Channel utilization: 87.374%
-Channel utilization: 87.2%
-Channel utilization: 87.024%
-Channel utilization: 87.158%
-Channel utilization: 87.194%
-Channel utilization: 86.924%
+Channel utilization: 5 86.036%
+Channel utilization: 6 86.564%
+Channel utilization: 7 86.604%
+Channel utilization: 8 87.364%
+Channel utilization: 9 87.278%
+Channel utilization: 10 88.356%
+Channel utilization: 11 87.922%
+Channel utilization: 12 88.16%
+Channel utilization: 13 87.774%
+Channel utilization: 14 87.9%
+Channel utilization: 15 88.322%
+Channel utilization: 16 88.092%
+Channel utilization: 17 88.514%
+Channel utilization: 18 88.476%
+Channel utilization: 19 88.688%
+Channel utilization: 20 88.64%
+Channel utilization: 21 88.74%
+Channel utilization: 22 88.568%
+Channel utilization: 23 88.88%
+Channel utilization: 24 89.014%
+Channel utilization: 25 88.516%
+Channel utilization: 26 88.704%
+Channel utilization: 27 89.102%
+Channel utilization: 28 88.98%
+Channel utilization: 29 88.7%
+Channel utilization: 30 88.684%
+Channel utilization: 31 88.404%
+Channel utilization: 32 88.552%
+Channel utilization: 33 89.06%
+Channel utilization: 34 88.776%
+Channel utilization: 35 88.84%
+Channel utilization: 36 88.56%
+Channel utilization: 37 88.24%
+Channel utilization: 38 88.892%
+Channel utilization: 39 89.28%
+Channel utilization: 40 89.17%
+Channel utilization: 41 88.74%
+Channel utilization: 42 88.524%
+Channel utilization: 43 88.438%
+Channel utilization: 44 88.322%
+Channel utilization: 45 89.146%
+Channel utilization: 46 88.594%
+Channel utilization: 47 88.696%
+Channel utilization: 48 88.94%
+Channel utilization: 49 88.974%
+Channel utilization: 50 88.8%
+Channel utilization: 51 88.572%
+Channel utilization: 52 88.332%
+Channel utilization: 53 88.6%
+Channel utilization: 54 88.476%
+Channel utilization: 55 88.436%
+Channel utilization: 56 88.47%
+Channel utilization: 57 88.76%
+Channel utilization: 58 88.246%
+Channel utilization: 59 88.624%
+Channel utilization: 60 88.304%
+Channel utilization: 61 88.418%
+Channel utilization: 62 88.5%
+Channel utilization: 63 88.326%
+Channel utilization: 64 88.062%
+Channel utilization: 65 88.48%
+Channel utilization: 66 88.294%
+Channel utilization: 67 88.124%
+Channel utilization: 68 88.25%
+Channel utilization: 69 88.388%
+Channel utilization: 70 88.088%
+Channel utilization: 71 88.08%
+Channel utilization: 72 87.898%
+Channel utilization: 73 88.302%
+Channel utilization: 74 88.086%
+Channel utilization: 75 87.898%
+Channel utilization: 76 88.016%
+Channel utilization: 77 87.744%
+Channel utilization: 78 88%
+Channel utilization: 79 87.58%
+Channel utilization: 80 88.124%
+Channel utilization: 81 87.756%
+Channel utilization: 82 87.36%
+Channel utilization: 83 87.538%
+Channel utilization: 84 87.63%
+Channel utilization: 85 87.78%
+Channel utilization: 86 87.348%
+Channel utilization: 87 87.36%
+Channel utilization: 88 87.766%
+Channel utilization: 89 87.27%
+Channel utilization: 90 87.342%
+Channel utilization: 91 87.214%
+Channel utilization: 92 87.374%
+Channel utilization: 93 87.076%
+Channel utilization: 94 87.174%
+Channel utilization: 95 87.034%
+Channel utilization: 96 87.17%
+Channel utilization: 97 86.6%
+Channel utilization: 98 87.094%
+Channel utilization: 99 86.76%
+Channel utilization: 100 86.788%
